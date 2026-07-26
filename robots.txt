@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tanaiine.github.io/dashijianjin/sitemap.xml
